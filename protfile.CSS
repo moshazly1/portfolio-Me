@@ -16,7 +16,7 @@ heaader {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 200px;
+    padding: 10px 62px;
 }
 heaader .logo {
     text-decoration: none;
@@ -38,7 +38,7 @@ heaader .logo {
    color: #601cfc;
 }
 section {
-    padding:100px  200px;
+    padding:100px  62px;
 }
 
 .main {
